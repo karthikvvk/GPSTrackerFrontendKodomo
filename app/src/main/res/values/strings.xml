@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kodomo</string>
+    <string name="location_text">Lat: %1$.6f, Lon: %2$.6f</string>
+    <string name="location_unavailable">Location not available</string>
+    <string name="default_web_client_id">468313865164-hfet3ps5lvujdefp6t43glp5ltc95lfm.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="start_logging">Start Logging</string>
+    <string name="stop_logging">Stop Logging</string>
+    <string name="restart_logging">Restart Logging</string>
+    <string name="history">History</string>
+    <string name="location_log">Location log:</string>
+</resources>
